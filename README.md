@@ -1,4 +1,6 @@
 # mc-apk
 Go read the read-me.txt file. 
-https://cdn.discordapp.com/attachments/1096466813757431958/1355164191572627517/ss1.jpg?ex=67e7ee81&is=67e69d01&hm=8608587ab234ec7bace706c416f739bbe5697371df53b489f187e0b847dc87f9&
-https://cdn.discordapp.com/attachments/1096466813757431958/1355164192042258633/ss2.jpg?ex=67e7ee81&is=67e69d01&hm=0758547999476f21798d460a0f98b6f76965b56318616318fa38238d012a55f8&
+
+![Uploading ss1.jpg…]()
+
+![Uploading ss2.jpg…]()
